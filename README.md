@@ -3,7 +3,10 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm an Infor ERP Developer working in Infor’s cloud environment, where I focus on automating workflows and enhancing enterprise performance through Landmark development. Each day, I design and deploy smart solutions tailored to complex business needs—streamlining operations, safeguarding data accuracy, and enabling seamless user experiences across departments.
+
+If you’d like to add callouts to specific GitHub projects or tailor this for LinkedIn or your resume, I can help craft versions for each platform. Want to work in some keywords for recruiters or hiring managers next?
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
