@@ -3,9 +3,6 @@
 
 I'm an Infor ERP Developer working in Infor’s cloud environment, where I focus on automating workflows and enhancing enterprise performance through Landmark development. Each day, I design and deploy smart solutions tailored to complex business needs—streamlining operations, safeguarding data accuracy, and enabling seamless user experiences across departments.
 
-If you’d like to add callouts to specific GitHub projects or tailor this for LinkedIn or your resume, I can help craft versions for each platform. Want to work in some keywords for recruiters or hiring managers next?
-
-
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
